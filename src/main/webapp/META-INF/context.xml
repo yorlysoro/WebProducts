@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context path="/WebProducts">
+<Context>
     <Context path="/WebProducts"/>
     <Resource name="jdbc/Products" auth="Container" type="javax.sql.DataSource"
     maxActive="15" maxIdle="3" maxWait="5000"
